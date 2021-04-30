@@ -4,7 +4,7 @@ os.system('rm -rf .txt')
  
     
     
-    )
+    
  
     print(nmbr)
  
