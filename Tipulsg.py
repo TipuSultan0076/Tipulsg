@@ -24,7 +24,7 @@ def inbox(session):
         return session
 ugen = []
 for xd in range(5000):
-    aa='Dalvik/2.1.0 (Linux; U; Android 5.1; PRO 5 Build/LMY47D)'
+    aa='Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36,gzip(gfe)'
     b=random.choice(['5','6','7','8','9','10','11','12'])
     if b in ['5', '6', '7', '8', '9']:
         z=random.choice(['0', '1'])
